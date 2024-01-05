@@ -1,5 +1,4 @@
 <h1 align="center">Namaste 🙏, I'm Triyank</h1>
-<h3 align="center">A Developer From India with master's in computer Application (2025)</h3>
 
 - 🌱 I’m currently learning **JavaScript , react.js**
 
